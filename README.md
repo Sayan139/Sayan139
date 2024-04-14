@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sayan139
-- 👀 I’m interested in machine learning and webb development and app development and also iot
+- 👀 I’m interested in machine learning and web development and app development and also iot systems
 - 🌱 I’m currently learning data structures and algorithm and web dev
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me through whatsapp send me  massage i will send you my num

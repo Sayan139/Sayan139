@@ -2,9 +2,9 @@
 - 👀 I’m interested in machine learning and web development and app development and also iot systems
 - 🌱 I’m currently learning data structures and algorithm and web dev
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me through whatsapp send me  massage i will send you my num
+- 📫 How to reach me through sayanbiswas918482@gmail.com
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: i dont know why i am writing this!
+- ⚡ Fun fact: i love to listen
 
 <!---
 Sayan139/Sayan139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

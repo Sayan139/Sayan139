@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayan139
 - 👀 I’m interested in machine learning and web development and app development and also iot systems
 - 🌱 I’m currently learning data structures and algorithm and web dev
-- 📫 How to reach me through sayanbiswas918482@gmail.com
+- 📫 reach me through sayanbiswas918482@gmail.com
 - 😄 Pronouns: his/him
 
 <!---

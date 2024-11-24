@@ -31,4 +31,16 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan139&show_icons=true&locale=en&layout=compact" alt="sayan139" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan139&show_icons=true&locale=en&layout=compact&langs_count=3&hide=html,css&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&include_all_commits=true&count_private=true" alt="sayan139" /></p>
+
+<script>
+  const statsData = {
+    labels: ["Python", "C++", "Java"],
+    datasets: [
+      {
+        data: [70, 20, 10],
+        backgroundColor: ["#3572A5", "#00599C", "#b07219"],
+      },
+    ],
+  };
+</script>

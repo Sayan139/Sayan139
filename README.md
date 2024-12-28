@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate on **DSA**
 
-- 🤝 I’m looking for help with **DSA**
-
-- 💬 Ask me about **DSA**
-
 - 📫 How to reach me **sayanbiswas918482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
 </p>

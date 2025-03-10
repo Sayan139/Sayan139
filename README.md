@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Biswas</h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fadamasknowledgecity.ac.in%2F&psig=AOvVaw1yChi7pCYV-44t1HuPUiyz&ust=1741670787553000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjdurbj_osDFQAAAAAdAAAAABAE" alt="Adamas University Logo" width="150"/>
+  <img src="https://adamasknowledgecity.ac.in/public/frontPage/img/logoadamas.png" alt="Adamas University Logo" width="150"/>
 </p>
 
 <h3 align="center">🚀 B.Tech in AI & ML | Adamas University | Web & ASA Learner</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Biswas</h1>
-<h3 align="center">🚀 B.Tech in AI & ML | Adamas University | Web & ASA Learner</h3>
+<h3 align="center">🚀 B.Tech in AI & ML | Adamas University | web & AI solutions</h3>
 
 - 🎓 I’m a **Second-year B.Tech student in AI & ML** at **Adamas University**
 - 🌱 I’m currently learning **DSA, Web Development**

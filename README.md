@@ -16,9 +16,14 @@
   <a href="https://www.facebook.com/profile.php?id=100042011891029" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" />
   </a>
+  <a href="https://x.com/Sayan841804" target="_blank">
+    <img align="center" src="https://abs.twimg.com/favicons/twitter.3.ico" alt="X" height="30" width="30" />
+  </a>
 </p>
 
+
+
 ---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sayan-biswas-427178296" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sayan-biswas-427178296?trk=profile-badge">Sayan Biswas</a></div>
+
               
 

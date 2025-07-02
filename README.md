@@ -4,8 +4,6 @@
 - 🎓 I’m a **Second-year B.Tech student in AI & ML** at **Adamas University**
 - 🌱 I’m currently learning **DSA, Web Development**
 - 🔭 I’m working on **DSA and real-world problem-solving**
-- 💡 I have experience with **C++, Python, and more**
-- 👯 I’m looking to collaborate on **AI, ML, and Web projects**
 - 📫 How to reach me **sayanbiswas918482@gmail.com**
 
 ---
